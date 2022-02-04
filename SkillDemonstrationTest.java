@@ -5,7 +5,7 @@ public class SkillDemonstrationTest {
    @Test
 
    public void subtraction() {
-       assertEquals(8,SkillDemonstration.subtract(6,10));
+       assertEquals(8,SkillDemonstration.subtract(2,10));
    }
 }
 
